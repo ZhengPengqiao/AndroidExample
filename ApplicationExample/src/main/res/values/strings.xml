@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FloatIcon</string>
+    <string name="activity_one_name">avtivutyOne</string>
+    <string name="activity_two_name">avtivutyTwo</string>
+    <string name="activity_one_text">In Main Activity One</string>
+    <string name="activity_two_text">In Main Activity Two</string>
+    <string name="save_button">保存数据</string>
+
+</resources>
