@@ -1,1 +1,1 @@
-include ':FloatIcon', ':ApplicationExample'
+include ':FloatIcon', ':ApplicationExample', ':VideoToImage', ':VideoView', ':Mediamuxer', ':Mediacodecdemo'
